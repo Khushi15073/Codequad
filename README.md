@@ -23,7 +23,7 @@ Follow these steps to set up **CodeQuad** on your local machine:
 
 1. **Clone the repository:**  
    ```sh
-   git clone https://github.com/Aviraj7514/CodeQuad.git
+   git clone https://github.com/Khushi15073/Codequad.git
    ```
 2. **Navigate to the project directory:**  
    ```sh
@@ -97,9 +97,9 @@ CodeQuad is licensed under the **MIT License**. See [LICENSE](LICENSE) for detai
 
 For any issues, suggestions, or feature requests, feel free to reach out:  
 
-👤 **Harsh Deradi**  
-🔗 [LinkedIn](https://www.linkedin.com/in/harsh-deradi1)  
-📧 **Email:** harshderadi@gmail.com  
+👤 **khushi Patel**  
+🔗 [LinkedIn](https://www.linkedin.com/in/khushi-patel15/)  
+📧 **Email:** khushipatel15073@gmail.com  
 
 ---
 >>>>>>> fb65b84 (Initial commit)
